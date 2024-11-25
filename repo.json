@@ -8,7 +8,7 @@
 		"ApplicableVersion": "any",
 		"RepoUrl": "https://github.com/allanahkk/MacroChainGoneWild",
 		"IconUrl": "https://raw.githubusercontent.com/allanahkk/MacroChainGoneWild/master/icon.png",
-		"DalamudApiLevel": 10,
+		"DalamudApiLevel": 11,
 		"IsHide": "False",
 		"Tags": [
 			"meow"
@@ -20,8 +20,8 @@
 		"LoadPriority": 0,
 		"Punchline": "Run multiple macros one after the other.",
 		"AcceptsFeedback": true,
-		"DownloadLinkInstall": "https://github.com/allanahkk/MacroChainGoneWild/releases/download/v0.1b/latest.zip",
-		"DownloadLinkTesting": "https://github.com/allanahkk/MacroChainGoneWild/releases/download/v0.1b/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/allanahkk/MacroChainGoneWild/releases/download/v0.1b/latest.zip"
+		"DownloadLinkInstall": "https://github.com/allanahkk/MacroChainGoneWild/releases/download/v0.1c/latest.zip",
+		"DownloadLinkTesting": "https://github.com/allanahkk/MacroChainGoneWild/releases/download/v0.1c/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/allanahkk/MacroChainGoneWild/releases/download/v0.1c/latest.zip"
 	}
 ]
